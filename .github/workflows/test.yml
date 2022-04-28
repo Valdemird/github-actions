@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: test
 on: [pull_request]
 jobs:
   test:
